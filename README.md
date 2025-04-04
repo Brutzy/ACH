@@ -1,4 +1,4 @@
-# ACH
+# ACH, SQL & Batch eMail Remittances
 
 Step 1. run _ Supplier_Bank_Accounts_v101.sql _ to make sure that the system has Routing #, Account #, eMail
 
