@@ -14,7 +14,7 @@ Step 6. run _ ach-prep.exe _ to convert underscores to blank spaces (SQL cannot 
 
 Step 7. upload ACH_YYYY_MM_DD.txt to your Bank.
 
-Step 8. run AP_Remit.sql to generate _ remit.csv
+Step 8. run AP_Remit_v101.sql _ to generate _ remit.csv
 
 Step 9. build go app _ remit-prep.go
 
