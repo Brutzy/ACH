@@ -2,7 +2,7 @@
 
 Step 1. run _ Supplier_Bank_Accounts_v101.sql _ to make sure that the system has Routing #, Account #, eMail
 
-Step 2. run _ main program _ Payments_v102.sql.  Feed a date _ mm/dd/yyyy to 
+Step 2. run _ main program _ Payments_v102.sql.  Feed in a date _ mm/dd/yyyy to 
 
 Step 3. ACH_Payments_v103.sql which uses Payments_One_Date_s102.sql _ a sub-program.
             
