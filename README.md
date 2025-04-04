@@ -1,5 +1,7 @@
 # ACH, SQL & Batch eMail Remittances
 
+Instead of printing checks on a MICR laser printer, stuffing envelopes, and mailing _ via postal service _
+
 Step 1. run _ Supplier_Bank_Accounts_v101.sql _ to make sure that the system has Routing #, Account #, eMail
 
 Step 2. run _ main program _ Payments_v102.sql.  Feed in a date _ mm/dd/yyyy to 
