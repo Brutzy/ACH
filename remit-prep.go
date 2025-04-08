@@ -17,7 +17,7 @@ func ff(text string, length int) string {
 // ____________________________________________________
 func message_handler(recipient string, msg_str string ) {
 
-	auth := smtp.PlainAuth("", "billb@hkmetalcraft.com", "kuur iobz awwa oaym", "smtp.gmail.com")
+	auth := smtp.PlainAuth("", "billb@hkmetalcraft.com", "xxxx xxxx yyyy zzz", "smtp.gmail.com")
 
 	to := []string{``}
 
